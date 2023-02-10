@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RialtoLib.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -11,6 +12,9 @@ namespace RialtoDriver
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
+
+        public static readonly RialtoEntities rialtoEntities = new RialtoEntities();
+
         [STAThread]
         static void Main()
         {

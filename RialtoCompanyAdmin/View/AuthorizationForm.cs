@@ -41,6 +41,7 @@ namespace RialtoCompanyAdmin.View
                 if (company != null)
                 {
                     var code = GenericService.RandomString(16);
+
                     GenericService.SendMessage(company.company_name, company.email,
                         "Ваш код авторизації", $"Введіть цей код\n\n{code}\n\n" +
                         $" у вікно, що з'явилося");

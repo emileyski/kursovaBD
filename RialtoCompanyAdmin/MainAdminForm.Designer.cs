@@ -33,6 +33,7 @@
             this.обліковийЗаписToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.вийтиToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.змінитиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.автівкиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -41,7 +42,8 @@
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.вийтиToolStripMenuItem,
-            this.обліковийЗаписToolStripMenuItem});
+            this.обліковийЗаписToolStripMenuItem,
+            this.автівкиToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(686, 28);
@@ -78,6 +80,12 @@
             this.змінитиToolStripMenuItem.Text = "Змінити";
             this.змінитиToolStripMenuItem.Click += new System.EventHandler(this.змінитиToolStripMenuItem_Click);
             // 
+            // автівкиToolStripMenuItem
+            // 
+            this.автівкиToolStripMenuItem.Name = "автівкиToolStripMenuItem";
+            this.автівкиToolStripMenuItem.Size = new System.Drawing.Size(75, 24);
+            this.автівкиToolStripMenuItem.Text = "Автівки";
+            // 
             // MainAdminForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -105,6 +113,7 @@
         private System.Windows.Forms.ToolStripMenuItem обліковийЗаписToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem вийтиToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem змінитиToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem автівкиToolStripMenuItem;
     }
 }
 
