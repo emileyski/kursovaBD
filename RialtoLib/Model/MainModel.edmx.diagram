@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="30a551bee6c048d0b8f7d9287692428c" Name="Diagram1" ZoomLevel="106">
+      <Diagram DiagramId="30a551bee6c048d0b8f7d9287692428c" Name="Diagram1" ZoomLevel="93">
         <EntityTypeShape EntityType="RialtoModel.Boby_type" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="RialtoModel.Car" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
         <EntityTypeShape EntityType="RialtoModel.Company" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RialtoCompanyAdmin
 {
-    public partial class Form1 : Form
+    public partial class MainAdminForm : Form
     {
-        public Form1()
+        public MainAdminForm()
         {
             InitializeComponent();
         }
