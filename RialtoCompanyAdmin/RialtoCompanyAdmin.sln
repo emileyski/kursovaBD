@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RialtoCompanyAdmin", "RialtoCompanyAdmin.csproj", "{BC436529-5435-4976-8AA2-A5B190B1AB0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC436529-5435-4976-8AA2-A5B190B1AB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC436529-5435-4976-8AA2-A5B190B1AB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC436529-5435-4976-8AA2-A5B190B1AB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC436529-5435-4976-8AA2-A5B190B1AB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CC47074-389D-4450-984C-F134272D59BC}
+	EndGlobalSection
+EndGlobal
